@@ -30,7 +30,7 @@ Hi! I'm Prajakta, an MCA graduate interested in Artificial Intelligence, Machine
 - 🛡️ AI-Based Threat Intelligence Platform
 - 🎙️ Speech Emotion Recognition
 
-## 📈 My Goals
+## 📈 Goals
 
 - Build practical AI/ML projects
 - Learn research methodology and scientific writing
