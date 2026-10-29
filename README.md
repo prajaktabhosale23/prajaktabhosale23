@@ -6,6 +6,7 @@ Hi! I'm Prajakta, an MCA graduate interested in Artificial Intelligence, Machine
 
 - 🎓 MCA Graduate
 - 🤖 Interested in Artificial Intelligence and Machine Learning
+- 📡 Exploring AI/ML-based wireless communication and network optimization
 - 🐍 Learning and practicing Python, data analysis, and machine learning
 - 🔬 Interested in research papers, simulations, and experimental analysis
 - 🚀 Working on strengthening my technical and research skills
